@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+nav {
+    width: 90%;
+    margin: 30px auto;
+    display: flex;
+}
+
+.logo {
+    font-size: 2em;
+}
+
+nav div {
+    width: 33%;
+    margin: 5px;
+}
+
+.navlinks {
+    text-align: center;
+}
+
+.navlinks span {
+    margin: 15px;
+}
+
+.nav-icons {
+    display: flex;
+    padding-left: 150px;
+}
+
+.nav-icons div {
+    margin: 0 10px;
+}
+
+.icons {
+    height: 16px;
+}
+
+main {
+    display: flex;
+    width: 90%;
+    margin: 30px auto;
+    padding-left: 50px;
+}
+
+.content {
+    width: 55%;
+    margin-right: 50px;
+}
+
+.image {
+    width: 40%;
+}
+
+.harriet {
+    width: 100%;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+}
+#purple-btn {
+    background-color: #5B38E3;
+    border: 0;
+    color: white;
+}
+
+#white-btn {
+    background-color: white;
+    margin-left: 20px;
+    border: 1px solid gray;
+}
+
+.intro {
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.name {
+    color: #5B38E3;
+}
+
+footer {
+    background-color: #202020;
+    color: white;
+    text-align: center;
+    padding: 30px 250px 10px;
+}
+
+.count {
+    color: #F7D046;
+    font-size: 1.8em;
+}
+
+.text {
+    color: gray;
+    font-size: 1rem;
+}
